@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.login);
         currentLayoutId = R.layout.login;
     }
-    
+
     private void registerPage(){
         setContentView(R.layout.register);
         currentLayoutId = R.layout.register;
