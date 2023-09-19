@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JZ_EventPlanning_worker</string>
+    <string name="j_z"><![CDATA[J & Z]]></string>
+    <string name="event_planning_worker">Event Planning | worker</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+</resources>
